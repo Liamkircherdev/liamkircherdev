@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### My Background
 
 - Former founder/operator of two ops-heavy companies, scaled to $300K+/month using custom scraping and automation tools.
 - Now focused full-time on backend engineering and machine learning — building predictive systems and RL agents on custom-built infrastructure (500+ CPUs, 100+ GPUs).
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### My Tech Stack
 
 **Languages:** Python, TypeScript, SQL, Go, Rust  
 **Frameworks:** FastAPI, Node.js, Express  
@@ -24,38 +24,38 @@
 
 ---
 
-### 🚀 Featured Projects
+### What I Am Working On
 
-#### 📬 MailAgent.AI — AI Marketing Agent
+#### MailAgent.AI — AI Marketing Agent
 - Built FastAPI backend to generate and send GPT-4 cold emails using scraped and enriched business data.
 - Integrated multi-account rotation, reply tracking, lead scoring with Redis, Celery, and PostgreSQL.
 
-#### 🏠 OpenHouse.AI — Real Estate Data Agent
+#### OpenHouse.AI — Real Estate Data Agent
 - Scrapes property listings across MLS sites using dynamic filters and selectors.
 - Exposes enriched real estate data via authenticated REST API endpoints with rate limiting.
 
-#### 🧠 Project Archon — Multi-Agent RL Simulation Engine
+#### Project Archon — Multi-Agent RL Simulation Engine
 - Backend engine simulating governance decision-making with multi-agent reinforcement learning.
 - Modular agent architecture with custom reward functions and outcome visualization.
 
-#### 🧭 Project Echo — Ideological Drift Classifier
+#### Project Echo — Ideological Drift Classifier
 - Ingests and clusters social content using OpenAI embeddings to model ideological trajectories over time.
 - Prepares data for downstream RL agent training on belief shift simulation.
 
-#### 📉 GradFlow — Gradient Descent Visualizer
+#### GradFlow — Gradient Descent Visualizer
 - Uses NumPy + Matplotlib to animate optimization paths on convex surfaces.
 - Demonstrates effects of learning rate and momentum in training loops.
 
 ---
 
-### 📚 Education
+### My Education
 
 - **Belmont Abbey College** — B.A. Business Management, Minor in Computer Science | GPA: 3.2 | NCAA Athlete  
 - **Self-Taught Backend Engineer & ML Systems Developer (2024–Present)**
 
 ---
 
-### 🔗 Connect With Me
+### Check Out My Links
 
 - [GitHub](https://github.com/Liamkircherdev)
 - [LinkedIn](https://www.linkedin.com/in/liam-kircher-a54163376/)
